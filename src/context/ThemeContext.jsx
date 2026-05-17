@@ -9,10 +9,7 @@ export function ThemeProvider({ children }) {
     if (savedTheme) {
       return savedTheme;
     }
-    if (typeof window !== 'undefined' && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      return 'dark';
-    }
-    return 'light'; // Default to light if no preference
+    return 'dark'; // Default to dark
   });
 
   useEffect(() => {
