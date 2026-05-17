@@ -101,7 +101,7 @@ export default function Hero() {
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.8, delay: 0.2 }}
-            className="hidden md:flex justify-center relative"
+            className="flex justify-center relative order-first md:order-none mb-10 md:mb-0 mt-4 md:mt-0"
           >
             <div className="w-80 h-80 relative">
               {/* Outer rotating ring */}
