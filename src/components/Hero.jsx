@@ -84,7 +84,7 @@ export default function Hero() {
               <a href="https://github.com/tanwargajanand07/" target="_blank" rel="noreferrer" className="text-slate-500 hover:text-cyan-600 dark:text-slate-400 dark:hover:text-cyan-400 transition-colors">
                 <FaGithub size={22} />
               </a>
-              <a href="https://www.linkedin.com/in/gajanand/" target="_blank" rel="noreferrer" className="text-slate-500 hover:text-cyan-600 dark:text-slate-400 dark:hover:text-cyan-400 transition-colors">
+              <a href="https://www.linkedin.com/in/gajanand-sain-03a519411/" target="_blank" rel="noreferrer" className="text-slate-500 hover:text-cyan-600 dark:text-slate-400 dark:hover:text-cyan-400 transition-colors">
                 <FaLinkedin size={22} />
               </a>
               <a href="https://instagram.com/gajendra_tanwar__" target="_blank" rel="noreferrer" className="text-slate-500 hover:text-cyan-600 dark:text-slate-400 dark:hover:text-cyan-400 transition-colors">

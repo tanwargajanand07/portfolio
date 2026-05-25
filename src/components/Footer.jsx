@@ -24,7 +24,7 @@ export default function Footer() {
 
   const socialLinks = [
     { icon: <FaGithub size={20} />, href: 'https://github.com/tanwargajanand07/', label: 'GitHub', hoverColor: 'hover:text-white hover:bg-slate-800 dark:hover:bg-white dark:hover:text-slate-900' },
-    { icon: <FaLinkedin size={20} />, href: 'https://www.linkedin.com/in/gajanand/', label: 'LinkedIn', hoverColor: 'hover:text-white hover:bg-[#0A66C2]' },
+    { icon: <FaLinkedin size={20} />, href: 'https://www.linkedin.com/in/gajanand-sain-03a519411/', label: 'LinkedIn', hoverColor: 'hover:text-white hover:bg-[#0A66C2]' },
     { icon: <FaInstagram size={20} />, href: 'https://instagram.com/gajendra_tanwar__', label: 'Instagram', hoverColor: 'hover:text-white hover:bg-gradient-to-br hover:from-[#f9ce34] hover:via-[#ee2a7b] hover:to-[#6228d7]' },
   ];
 
